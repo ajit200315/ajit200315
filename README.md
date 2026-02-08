@@ -37,6 +37,8 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 
 <h3 align="left">🛠 Language and tools</h3>
 
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />

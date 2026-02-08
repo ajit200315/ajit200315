@@ -28,11 +28,14 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 - Focused on **client-side performance**, layout consistency, and user experience
 
 
+
+---
+
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -68,7 +71,7 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 </div>
 
 ###
-
+---
 <h3 align="left">🔥   My Stats :</h3>
 
 ###

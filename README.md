@@ -7,7 +7,6 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 - 🌐 Full-stack development (MERN stack)
 - ⚛️ React (actively improving through hands-on projects)
 - 🔐 Cybersecurity fundamentals
-- 🧠 Cryptography & secure system design
 
 ---
 
@@ -28,49 +27,8 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 - Integrated external APIs to fetch anime metadata, ratings, and descriptions
 - Focused on **client-side performance**, layout consistency, and user experience
 
----
 
-## 🛠️ Skills
+<img src="https://raw.githubusercontent.com/ajit200315/ajit200315/output/snake.svg" alt="Snake animation" />
 
-### 💻 Programming Languages
-- C / C++
-- Python
-- JavaScript (basic–intermediate)
-- HTML5 / CSS3
-- Bash scripting
+###
 
-### 🌐 Web & Development
-- React
-- MERN stack (frontend-focused)
-- Git & GitHub
-- Linux & CLI tools
-
-### 🔐 Other Interests
-- Cybersecurity & ethical hacking fundamentals
-- Cryptography concepts
-- UI/UX design principles
-- System architecture & memory layout
-
----
-
-## 📚 Currently Learning
-- Building complete React apps independently
-- Backend development with Node.js
-- Secure coding practices
-- Advanced Git workflows & branching
-
----
-
-## 🌱 Fun Facts
-- 🏏 Enjoy watching and following cricket
-- 📖 Big fan of psychological manga (*Homunculus*)
-- 🌍 Fascinated by interconnected systems — ecosystems, networks, and software alike
-
----
-
-## 📫 Let’s Connect
-- 💼 LinkedIn: *(add your link here)*
-- 🌐 Portfolio: *(WIP)*
-- 📧 Email: *(optional)*
-
-⭐️ Thanks for stopping by — feel free to explore my repositories!

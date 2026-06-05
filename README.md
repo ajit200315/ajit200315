@@ -12,7 +12,7 @@ I enjoy understanding how systems work under the hood — from UI decisions all 
 
 ## 🚀 Projects
 
-### 🍴 Recipedia
+### 🍴 [Recipedia](https://github.com/CMPT-276-SUMMER-2025/final-project-16-moons)
 - Developed a **React-based web application** that serves hundreds of recipes with instant nutritional insights
 - Implemented **recipe filtering and search**, handling high-frequency API requests efficiently
 - Followed **Agile methodologies (Scrum & Kanban)** across multiple sprints
